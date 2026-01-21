@@ -1,0 +1,24 @@
+{
+  "name": "masai-re-revision-2-node-day-2",
+  "version": "1.0.0",
+  "description": "This document explains the fundamental concepts of HTTPS, encryption, certificates, cookies, and authentication mechanisms commonly used in web applications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sumit01-tech/Masai-Re-Revision-2-Node-Day-2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Sumit01-tech/Masai-Re-Revision-2-Node-Day-2/issues"
+  },
+  "homepage": "https://github.com/Sumit01-tech/Masai-Re-Revision-2-Node-Day-2#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
